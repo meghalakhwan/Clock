@@ -9,6 +9,7 @@ body {
   align-items: center;
 }
 
+
 img {
   width: 70px;
   position: absolute;
@@ -17,6 +18,7 @@ img {
   top: 60px;
   z-index: 2;
 }
+
 
 .clock {
   position: relative;
